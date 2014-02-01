@@ -34,5 +34,4 @@ while (slaying) {
         console.log("The dragon blows a giant ball of fire in your direction!");
         console.log("You dive out of the way, avoiding an early grave!");
     }
-
 }
