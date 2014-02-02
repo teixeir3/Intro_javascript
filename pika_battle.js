@@ -36,3 +36,5 @@ switch(user) {
     console.log("Pikachu doesn't understand wtf you're doing\
     and kills you with mufuckin THUNDER!! BZZAP!");
 }
+
+// http://www.codecademy.com/courses/javascript-beginner-en-9Sgpi/0/1?curriculum_id=506324b3a7dffd00020bf661
